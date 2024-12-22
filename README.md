@@ -29,11 +29,11 @@ It only supports GCC (MinGW) compiler for now. If you use other compilers like C
 
     > NOTE: Make sure you're in the right directory, if not change your working directory by using this command: `cd yourprojectlocation`. Then, 
     
-    If using powershell, 
+    If using powershell, execute the following command:
     ```
     .\build.bat filename.c
     ```
-    If using command prompt, 
+    If using command prompt, execute the following command:
     ```
     build.bat filename.c
     ```
