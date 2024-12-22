@@ -21,9 +21,9 @@ It only supports GCC (MinGW) compiler for now. If you use other compilers like C
     ```
     OR, Download the zip file and extract it
 
-2) Right click the "install.bat" file, and run it as an administrator. This script will copy the header file (utilities.h) and library file (libutilities.a) to respective MinGW folders
+2) Right click the `install.bat` file, and run it as an administrator. This script will copy the header file (utilities.h) and library file (libutilities.a) to respective MinGW folders
 
-3) Copy "build.bat" file to your project directory
+3) Copy `build.bat` file to your project directory
 
 4) To compile the program, 
 
